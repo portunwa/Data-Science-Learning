@@ -1,5 +1,5 @@
 ## Homework_DataCamp5
 
-Tunwa Satianrapapong
-
 ธันวา เสถียรภาพงษ์
+
+Suppoet Vector Regression (SVR) Quiz
