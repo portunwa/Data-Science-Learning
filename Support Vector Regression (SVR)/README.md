@@ -2,4 +2,4 @@
 
 ธันวา เสถียรภาพงษ์
 
-Suppoet Vector Regression (SVR) Quiz
+Support Vector Regression (SVR) Quiz
