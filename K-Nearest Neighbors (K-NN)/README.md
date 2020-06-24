@@ -1,5 +1,5 @@
-##Homework_DataCamp5
+## Homework_DataCamp5
 
 ธันวา เสถียรภาพงษ์
 
-Suppoet Vector Regression (SVR) Quiz
+K-Nearest Neighbors (K-NN) Quiz
